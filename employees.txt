@@ -1,15 +1,98 @@
-subi
-elyse
-ethan
-sakura
-terri
-charlie
-charlie
-kath
-ethan
-cameron
-asher
-rosemary
-amanda
-bret
-brette
+Bathilda Bagshot
+Katie Bell
+Andromeda Black
+Bellatrix Black
+Narcissa Black
+Phineas Nigellus Black
+Regulus Arcturus Black
+Sirius Black
+Broderick Bode
+Amelia Susan Bones
+Lavender Brown
+Millicent Bulstrode
+Mary Cattermole
+Reginald Cattermole
+Penelope Clearwater
+Colin Creevey
+Bartemius Crouch
+Roger Davies
+Elphias Doge
+Aberforth Dumbledore
+Dudley Dursley
+Vernon Dursley
+Lily Evans
+Marcus Flint
+Merope Gaunt
+Miranda Goshawk
+Fenrir Greyback
+Gellert Grindelwald
+Wilhelmina Grubbly-Plank
+Olive Hornby
+Angelina Johnson
+Lee Jordan
+Viktor Krum
+Alice Longbottom
+Frank Longbottom
+Xenophilius Lovegood
+Teddy Remus Lupin
+Cormac McLaggen
+Padma Patil
+Ignotus Peverell
+Eileen Prince
+Quirinus Quirrell
+Montague Knightley
+Hannah Longbottom
+Laura Madley
+Dorcas Meadowes
+Mrs Norris
+Octavius Pepper
+Gulliver Pokeby
+Ginny Potter
+Augustus Pye
+Augustus Rookwood
+Grugwyn Rufford
+Rolf Scamander
+Gaspard Shingleton
+Rita Skeeter
+Harold Skively
+Jack Sloper
+Salazar Slytherin
+Leopoldina Smethwyk
+Zacharias Smith
+Eileen Prince
+Erica Stainwright
+Jeremy Stretton
+Felix Summerbee
+Summerby
+Janus Thickey
+Pius Thicknesse
+Nymphadora Tonks
+Ted Tonks
+Cassandra Trelawney
+Norvel Twonk
+Amycus Carrow
+Glenda Chittock
+Irma Crabbe
+Glenda Crook
+Emma Dobbs
+Kirley Duke
+Marcus Flint
+Florean Fortescue
+Fenrir Greyback
+Godric Gryffindor
+Basil Horton
+Elladora Ketteridge
+Luna Lovegood
+Madam Malkin
+Madam Marsh
+Dugald McClivert
+Cormac McLaggen
+Burdock Muldoon
+Eunice Murray
+Theodore Nott
+Idris Oakby
+Bob Ogden
+Padma Patil
+Glanmore Peakes
+Arnold Peasegood
+Daisy Pennifold
