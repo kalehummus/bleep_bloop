@@ -1,30 +1,42 @@
 
-puts "Which .txt file would you like to open?"
+puts "Which .txt file in this folder would you like to open?"
 txt_file = gets.chomp
+
+existence = File.exist?(txt_file)
+while existence == false
+  puts "This is not a valid file. Which .txt file in this folder would you like to open?"
+  txt_file = gets.chomp
+  existence = File.exist?(txt_file)
+end
+
 my_file = File.open(txt_file)
+
 
 employees = Array.new
 my_file.each do |user|
   employees.push(user)
 end
 
-# if you want to add more people
-puts "do you want to add another employee?"
+
+puts "Would you like to add another person?"
 answer = gets.chomp
 while answer == "yes" do
   puts "who?"
   new_employee = gets.chomp + "\n"
   employees.push(new_employee)
-  puts "do you want to add another employee?"
+  puts "Would you like to add another person?"
   answer = gets.chomp
 end
 #finds unique employees in the array
-employees.uniq!
 
-#randomizes array
+employees.reject! do |item|
+  item.nil? || item == "\n"
+end
+
+employees.uniq!
 employees.shuffle!
 
-puts "how many people do you want in each group"
+puts "How many people would you like in each group?"
 group_size = gets.chomp.to_i
 
 remainder = employees.length % group_size
@@ -61,4 +73,4 @@ group_hash.each do |key, value|
   end
   my_file.write "\n"
 end
-puts "Your groups have been sorted into " + filename + "in this folder."
+puts "Your groups have been sorted into " + filename + " in this folder."

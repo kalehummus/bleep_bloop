@@ -1,6 +1,19 @@
 require 'csv'
 # puts "Which .txt file would you like to open?"
-data = CSV.read("employees.csv", { encoding: "UTF-8", headers: true, header_converters: :symbol, converters: :all})
+
+puts "Which .csv file in this folder would you like to open?"
+csv_file = gets.chomp
+
+existence = File.exist?(csv_file)
+while existence == false
+  puts "This is not a valid file. Which .txt file in this folder would you like to open?"
+  csv_file = gets.chomp
+  existence = File.exist?(csv_file)
+end
+
+my_file = File.open(csv_file)
+
+data = CSV.read(csv_file, { encoding: "UTF-8", headers: true, header_converters: :symbol, converters: :all})
 
 hashed_employees = data.map do |d|
     d.to_hash
@@ -39,9 +52,6 @@ hashed_employees.each do |x|
   end
 end
 
-
-# p chicago, sf, other_location
-
 puts "How many people would you like in each group?"
 group_size = gets.chomp.to_i
 
@@ -53,7 +63,6 @@ def sort(city,group_size)
   else
     number_groups = (city.length / group_size) + 1
   end
-  # city_name = city.to_s
   group_hash = Hash.new
   z = 0
   number_groups.times do |x|

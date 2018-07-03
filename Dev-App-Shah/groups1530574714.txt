@@ -1,0 +1,155 @@
+Group 1
+Marcus Flint
+Phineas Nigellus Black
+Alice Longbottom
+
+Group 2
+Aberforth Dumbledore
+Madam Marsh
+Pius Thicknesse
+
+Group 3
+Fenrir Greyback
+Rita Skeeter
+Amycus Carrow
+
+Group 4
+Quirinus Quirrell
+Bartemius Crouch
+Eunice Murray
+
+Group 5
+Arnold Peasegood
+Hannah Longbottom
+Padma Patil
+
+Group 6
+Reginald Cattermole
+Jeremy Stretton
+Leopoldina Smethwyk
+
+Group 7
+Broderick Bode
+Kirley Duke
+Madam Malkin
+
+Group 8
+Ginny Potter
+Augustus Rookwood
+Nymphadora Tonks
+
+Group 9
+Cormac McLaggen
+Rolf Scamander
+Harold Skively
+
+Group 10
+Glenda Crook
+Elphias Doge
+Miranda Goshawk
+
+Group 11
+Dudley Dursley
+Basil Horton
+Gellert Grindelwald
+
+Group 12
+Cassandra Trelawney
+Gulliver Pokeby
+Norvel Twonk
+
+Group 13
+Luna Lovegood
+Ted Tonks
+Jack Sloper
+
+Group 14
+Mary Cattermole
+Florean Fortescue
+Lily Evans
+
+Group 15
+Erica Stainwright
+Dorcas Meadowes
+Glenda Chittock
+
+Group 16
+Augustus Pye
+Olive Hornby
+Gaspard Shingleton
+
+Group 17
+Irma Crabbe
+Grugwyn Rufford
+Montague Knightley
+
+Group 18
+Katie Bell
+Janus Thickey
+Elladora Ketteridge
+
+Group 19
+Mrs Norris
+Daisy Pennifold
+Octavius Pepper
+
+Group 20
+Andromeda Black
+Sirius Black
+Narcissa Black
+
+Group 21
+Xenophilius Lovegood
+Merope Gaunt
+Emma Dobbs
+
+Group 22
+Felix Summerbee
+Lee Jordan
+Bob Ogden
+
+Group 23
+Ignotus Peverell
+Burdock Muldoon
+Summerby
+
+Group 24
+Wilhelmina Grubbly-Plank
+Bathilda Bagshot
+Eileen Prince
+
+Group 25
+Glanmore Peakes
+Frank Longbottom
+Amelia Susan Bones
+
+Group 26
+Teddy Remus Lupin
+Theodore Nott
+Viktor Krum
+
+Group 27
+Penelope Clearwater
+Godric Gryffindor
+Roger Davies
+
+Group 28
+Millicent Bulstrode
+Idris Oakby
+Zacharias Smith
+
+Group 29
+Lavender Brown
+Laura Madley
+Bellatrix Black
+
+Group 30
+Colin Creevey
+Dugald McClivert
+Angelina Johnson
+
+Group 31
+Salazar Slytherin
+Vernon Dursley
+Regulus Arcturus Black
+
